@@ -1,5 +1,5 @@
 {
-  "name": "harry-s-n-api",
+  "name": "social-network-api",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,16 +10,17 @@
     "type": "git",
     "url": "git+https://github.com/HLOIII/harry-s-n-API.git"
   },
-  "author": "Harry Ogletree",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/HLOIII/harry-s-n-API/issues"
   },
-  "homepage": "https://github.com/HLOIII/harry-s-n-API#readme",
+  "homepage": "https://github.com/HLOIII/harry-s-n-API#readmes",
   "dependencies": {
-    "dotenv": "^16.0.0",
-    "express": "^4.17.3",
-    "mongoose": "^6.3.0",
-    "validator": "^13.7.0"
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongodb": "^4.5.0",
+    "mongoose": "^5.12.12",
+    "validator": "^13.6.0"
   }
 }
